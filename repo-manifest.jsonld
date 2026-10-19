@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/msiemens/tinydb/commit/edff96aeb2616402e9489d46e90a592c05565621",
       "git:hexsha": "edff96aeb2616402e9489d46e90a592c05565621",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/msiemens/tinydb/commit/4a533d56a258d154a5f66bcbfabca009a4a040f6",
